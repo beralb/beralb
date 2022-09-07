@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jean Paul Bernhardt</h1>
-<h3 align="center">A frontend developer from Brazil and full-stack under construction</h3>
+<h3 align="center">A frontend developer from Brazil and a full-stack developer under construction</h3>
 
 - 🌱 I’m currently learning **Node, SQL, Docker, MongoDB, TypeScript, Solid, Deploy, JWT**
 
