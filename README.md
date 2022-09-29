@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [beralb.github.io](beralb.github.io)
 
-- 📫 How to reach me **jp.bernhardt@hotmail.com**
+- 📫 How to reach me :  **www.linkedin.com/in/jean-paul-bernhardt** - **jp.bernhardt@hotmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
