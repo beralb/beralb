@@ -3,9 +3,7 @@
 
 - 🌱 I’m currently learning **Node, SQL, Docker, MongoDB, TypeScript, Solid, Deploy, JWT**
 
-- 👯 I've just work on: [Shopping Cart Project](https://beralb.github.io/projects/project-shopping-cart/index.html)
-
-- 👨‍💻 All of my projects are available at [beralb.github.io](beralb.github.io)
+- 👨‍💻 Some of my projects are available at [beralb.github.io](beralb.github.io)
 
 - 📫 How to reach me :  **www.linkedin.com/in/jean-paul-bernhardt** - **jp.bernhardt@hotmail.com**
 
