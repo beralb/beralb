@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Node.js, SQL, Docker, MongoDB, TypeScript, Solid, Deploy, JWT**
 
-- 👨‍💻 Some of my projects are available at [beralb.github.io](beralb.github.io)
+- 👨‍💻 Some of my projects are available at **[www.beralb.github.io](https://beralb.github.io/)**
 
 - 📫 How to reach me :  **www.linkedin.com/in/jean-paul-bernhardt** - **jp.bernhardt@hotmail.com**
 
