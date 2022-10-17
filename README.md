@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jean Paul Bernhardt</h1>
-<h3 align="center">A frontend developer from Brazil and a full-stack developer under construction</h3>
+<h3 align="center">A web developepment student from Brazil. I recently finished front-end module and now I am studying back-end</h3>
 
-- 🌱 I’m currently learning **Node, SQL, Docker, MongoDB, TypeScript, Solid, Deploy, JWT**
+- 🌱 I’m currently learning **Node.js, SQL, Docker, MongoDB, TypeScript, Solid, Deploy, JWT**
 
 - 👨‍💻 Some of my projects are available at [beralb.github.io](beralb.github.io)
 
