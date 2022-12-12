@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Jean Paul Bernhardt</h1>
 <h3 align="center">A Web Developer from Brazil. I recently finished front-end module and now I am studying the back-end stack.</h3>
 
-- 🌱 I’m currently learning **Node.js, SQL, Docker, MongoDB, TypeScript, Solid, Deploy, JWT** and programming is really a passion for me. Being a programmer is a dream that comes true. My hobby, which I also am passioned, is rally and I my role is this sport es being a navigator.
+- 🌱 I’m currently learning **Node.js, SQL, Docker, MongoDB, TypeScript, Solid, Deploy, JWT** and programming is really a passion for me. Being a programmer is a dream that comes true. My hobby, which I also am passioned, is rally and I my role is this sport is navigator.
 
 - 👨‍💻 Some of my projects are available at **[www.beralb.github.io](https://beralb.github.io/)**
 
