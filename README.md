@@ -1,11 +1,12 @@
 <h1 align="center">Hi, I'm Jean Paul Bernhardt</h1>
 <h3 align="center">Web Developer</h3>
-<br/>
-- 🌱 My tech stack includes  **Javascript, TypeScript, Node.js, Python, SQL, Docker, MongoDB, Solid, Deploy, JWT, Jest, Mocha, Chai and Sinon**. Programming is really a passion for me. Being a programmer is a dream that comes true. My hobby, which I also am passioned, is rally and I my role is this sport is navigator.
-
-- 👨‍💻 Some of my projects included at my portofolio website: **[www.beralb.github.io](https://beralb.github.io/)**
-
-- 📫 How to reach me :  **www.linkedin.com/in/jean-paul-bernhardt** - **jp.bernhardt@hotmail.com**
+</br>
+<p align="left">
+My tech stack includes  **Javascript, TypeScript, Node.js, Python, SQL, Docker, MongoDB, Solid, Deploy, JWT, Jest, Mocha, Chai and Sinon**. Programming is really a passion for me. Being a programmer is a dream that comes true. My hobby, which I also am passioned, is rally and I my role is this sport is navigator.
+</p>
+<p align="left">
+Some of my projects included at my portofolio website: https://beralb.github.io/
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
