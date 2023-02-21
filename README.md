@@ -3,7 +3,7 @@
 <br/>
 - 🌱 My tech stack includes  **Javascript, TypeScript, Node.js, Python, SQL, Docker, MongoDB, Solid, Deploy, JWT, Jest, Mocha, Chai and Sinon**. Programming is really a passion for me. Being a programmer is a dream that comes true. My hobby, which I also am passioned, is rally and I my role is this sport is navigator.
 
-- 👨‍💻 Some of my projects are available at **[www.beralb.github.io](https://beralb.github.io/)**
+- 👨‍💻 Some of my projects included at my portofolio website: **[www.beralb.github.io](https://beralb.github.io/)**
 
 - 📫 How to reach me :  **www.linkedin.com/in/jean-paul-bernhardt** - **jp.bernhardt@hotmail.com**
 
@@ -63,3 +63,7 @@
 </a>
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/> 
 </a>
+</br>
+</br>
+    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beralb&show_icons=true&theme=transparent)
