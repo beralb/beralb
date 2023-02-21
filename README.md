@@ -66,5 +66,5 @@
 </br>
 </br>
     
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beralb&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beralb&show_icons=true&theme=transparent&hide=contribs,prs,issues)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
