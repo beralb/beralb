@@ -2,7 +2,7 @@
 <h3 align="center">Web Developer</h3>
 </br>
 <p align="left">
-My tech stack includes  **Javascript, TypeScript, Node.js, Python, SQL, Docker, MongoDB, Solid, Deploy, JWT, Jest, Mocha, Chai and Sinon**. Programming is really a passion for me. Being a programmer is a dream that comes true. My hobby, which I also am passioned, is rally and I my role is this sport is navigator.
+My tech stack includes **Javascript, TypeScript, Node.js, Python, SQL, Docker, MongoDB, Solid, Deploy, JWT, Jest, Mocha, Chai and Sinon**. Programming is really a passion for me and being a programmer is a dream that comes true. My hobby, which I also am passioned, is rally and I my role is this sport is navigator.
 </p>
 <p align="left">
 Some of my projects included at my portofolio website: https://beralb.github.io/
