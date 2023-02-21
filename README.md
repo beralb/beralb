@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Jean Paul Bernhardt</h1>
-<h3 align="center">A Web Developer from Brazil.</h3>
+<h3 align="center">Web Developer</h3>
 
 - 🌱 My tech stack includes  **Javascript, TypeScript, Node.js, Python, SQL, Docker, MongoDB, Solid, Deploy, JWT, Jest, Mocha, Chai and Sinon**. Programming is really a passion for me. Being a programmer is a dream that comes true. My hobby, which I also am passioned, is rally and I my role is this sport is navigator.
 
